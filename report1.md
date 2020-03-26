@@ -18,7 +18,8 @@
  
   ![bag3](https://github.com/elenaslavutina/hw_KeyValidator/blob/master/bag3.PNG)
 
-Описание процесса тестирования
+**Описание процесса тестирования**
+
 В процессе тестирования использовались следующие артефакты:
  - приложение KeyValidator.class
  - баг репорт
