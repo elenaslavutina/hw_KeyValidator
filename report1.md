@@ -6,18 +6,12 @@
 
 **В результате тестирования выявлены следующие дефекты:**
 
- - баг1 
+ - баг1  [Неверный ожидаемый ответ на валидном ключе 1](https://github.com/elenaslavutina/hw_KeyValidator/issues/1)
  
-  ![bag1](https://github.com/elenaslavutina/hw_KeyValidator/blob/master/bag1.PNG)
+ - баг2   [Неверный ожидаемый ответ на валидном ключе 2](https://github.com/elenaslavutina/hw_KeyValidator/issues/3)
  
- - баг2
+ - баг3  [Неверный ожидаемый ответ на невалидном ключе](https://github.com/elenaslavutina/hw_KeyValidator/issues/4)
  
-  ![bag2](https://github.com/elenaslavutina/hw_KeyValidator/blob/master/bag2.PNG)
- 
- - баг3  
- 
-  ![bag3](https://github.com/elenaslavutina/hw_KeyValidator/blob/master/bag3.PNG)
-
 **Описание процесса тестирования**
 
 В процессе тестирования использовались следующие артефакты:
